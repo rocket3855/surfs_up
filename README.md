@@ -1,2 +1,4 @@
 # surfs_up
 Deanna Centi
+
+Module 9 was a climate analysis that used sqlite and a flask application to determine that Oahu would be the most optimal location for a surf and ice cream shop. For analysis regarding a year round business, data was filtered for the months of june through december. In June it was optimal temperatures for surfing and ice cream with the average temperature reaching approximately 75 degrees F. While the low and highest temperature reached are 64 and 85 degrees. However, in December the average temperature was approximately 71 degrees while reaching lows of 56 and highs of 83. The results conclude that the ice cream shop can remain open year round but to expect slow business on a few of the colder days in december.
