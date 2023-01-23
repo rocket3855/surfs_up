@@ -5,6 +5,7 @@ Module 9 was a climate analysis that used sqlite and a flask application to dete
 
 ## Deliverable 1
 1. Write a query that filters the Measurement table to retrieve the temperatures for the month of June. 
+
 ![D1-1](https://user-images.githubusercontent.com/69988487/214156059-ca8695fe-f3ca-447f-91e0-84c7c94a285a.png)
 
 2. Convert the June temperatures to a list.
